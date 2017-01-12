@@ -34,6 +34,7 @@ function swap(arr1, arr2) {
   } else {
     arr1 = arr1.reverse();
   }
+}
 
 ### Write a function that reverses an array in place, using ONLY the swap function that you wrote above
 
