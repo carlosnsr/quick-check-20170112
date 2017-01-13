@@ -9,12 +9,12 @@ Paste your answer into the appropriate place below when you are done.
 
 e.g.
 ```js
-var first_arr = [1, 2, 3]
+var first_array = [1, 2, 3]
 var second_array = [4, 5, 6]
 
-swap(first_arr, second_array)
+swap(first_array, second_array)
 
-console.log(first_arr) // [4, 5, 6]
+console.log(first_array) // [4, 5, 6]
 console.log(second_array) // [1, 2, 3]
 ```
 
