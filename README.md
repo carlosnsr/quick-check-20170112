@@ -16,9 +16,7 @@ swap(first_array, second_array)
 
 console.log(first_array) // [4, 5, 6]
 console.log(second_array) // [1, 2, 3]
-```
 
-```js
 function swap(arr1, arr2) {
   // -- YOUR ANSWER HERE --
 }
