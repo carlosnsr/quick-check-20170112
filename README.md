@@ -23,20 +23,3 @@ function swap(arr1, arr2) {
   // -- YOUR ANSWER HERE --
 }
 ```
-
-### Write a function that reverses an array in place, using ONLY the swap function that you wrote above
-
-e.g.
-```js
-var third_array = [3, 8, 4]
-
-console.log(third_array) // [3, 8, 4]
-reverse(third_array)
-console.log(third_array) // [4, 8, 3]
-```
-
-```js
-function reverse(array) {
-  // -- YOUR ANSWER HERE --
-}
-```
